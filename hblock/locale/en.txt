@@ -1,0 +1,184 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Nice Space (H BLock) 
+
+## Skin
+
+### Button
+Button_1B998D00_16C4_0505_41AD_67CAA4AAEFE0.label = HOUSE INFO
+Button_1B998D00_16C4_0505_41AD_67CAA4AAEFE0_mobile.label = NEAREST
+Button_1B999D00_16C4_0505_41AB_D0C2E7857448.label = PANORAMA LIST
+Button_1B999D00_16C4_0505_41AB_D0C2E7857448_mobile.label = CONTACT
+Button_1B9A3D00_16C4_0505_41B2_6830155B7D52.label = SAMPLE HOUSE
+Button_1B9A3D00_16C4_0505_41B2_6830155B7D52_mobile.label = CONTACT US
+Button_1B9A4D00_16C4_0505_4193_E0EA69B0CBB0.label = FLOORPLAN
+Button_1B9A4D00_16C4_0505_4193_E0EA69B0CBB0_mobile.label = FLOORPLAN
+Button_1B9A5D00_16C4_0505_41B0_D18F25F377C4.label = PHOTOALBUM
+Button_1B9A5D00_16C4_0505_41B0_D18F25F377C4_mobile.label = PHOTOSALBUM
+Button_1B9A6D00_16C4_0505_4197_F2108627CC98.label = LOCATION
+Button_39AC1CF5_294E_3F3E_4172_42AD93762317.label = NEAREST
+Button_48215EC3_6AB8_A059_41B1_019D8E402561_mobile.label = TOWER
+Button_499C013E_2FB8_BA4D_418F_48988DF91322.label = CONTACT US
+Button_77ED0998_6AB9_A0F7_41D5_0B1530C65766.label = TOWER
+
+### Multiline Text
+HTMLText_0B42C466_11C0_623D_4193_9FAB57A5AC33.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:6.67vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff6600;font-size:6.67vh;font-family:'Bebas Neue Bold';">Nice</SPAN><SPAN STYLE="font-size:6.67vh;font-family:'Bebas Neue Bold';"> </SPAN><SPAN STYLE="color:#99ff33;font-size:6.67vh;font-family:'Bebas Neue Bold';">Space</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:4.005722460658083vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#99ff33;font-size:4.01vh;font-family:'Bebas Neue Bold';">      </SPAN><SPAN STYLE="color:#00cccc;font-size:3.72vh;font-family:'Bebas Neue Bold';"><B><U>Expore the urban life</U></B></SPAN></SPAN></DIV></div>
+HTMLText_0B4B0DC1_11C0_6277_41A4_201A5BB3F7AE.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.9300000000000006vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.93vmin;font-family:'Bebas Neue Bold';">Mr. Devendra Sen</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.51vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.19vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.19vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.19vmin;font-family:'Bebas Neue Bold';">pHONE : +91 9981993425/65</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.19vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.19vmin;font-family:'Bebas Neue Bold';">Customercare.nicespace@gmail.com</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.19vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.19vmin;font-family:'Bebas Neue Bold';">www.NICESPACE.CO.IN</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.19vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.19vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.19vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.7181688125894103vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff6600;font-size:2.72vmin;font-family:'Bebas Neue Bold';"><B>sATYA PRAKASH COLONIZERS PVT. LTD.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.42vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.42vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.529999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff6600;font-size:1.53vmin;"><B>Nice Space Apartments, Bhopal is one of a kind. It is a 2 &amp; 3BHK residential project which is RERA approved and the first high-rise project in the area.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.53vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.529999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff6600;font-size:1.53vmin;"><B>Be it in terms of the infrastructural quality, design, price, amenities or even the proximity to basic necessities. We believe in serving people with the best.</B></SPAN></SPAN></DIV></div>
+HTMLText_0B4B0DC1_11C0_6277_41A4_201A5BB3F7AE_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10.050000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff6600;font-size:10.05vmin;font-family:'Bebas Neue Bold';">nICE</SPAN><SPAN STYLE="color:#04a3e1;font-size:10.05vmin;font-family:'Bebas Neue Bold';"> </SPAN><SPAN STYLE="color:#66cc00;font-size:10.05vmin;font-family:'Bebas Neue Bold';">sPACE</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.229999999999992vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#006699;font-size:6.23vmin;"><B>Mr. Devendra Sen</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.28vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.166666666666671vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.17vmin;font-family:'Bebas Neue Bold';">pHONE.: +91 9981993425/65</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.166666666666671vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.17vmin;font-family:'Bebas Neue Bold';">Customercare.nicespace@gmail.com</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.166666666666671vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.17vmin;font-family:'Bebas Neue Bold';">www.NICESPACE.CO.IN</SPAN></SPAN></DIV></div>
+HTMLText_8FFC01AE_B5E7_16E9_41D6_102C6BB9C3FA.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.329999999999995vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:5.33vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.649999999999996vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.65vh;font-family:'Bebas Neue Bold';">Towers:</SPAN></SPAN></DIV></div>
+HTMLText_BB03B6EA_ACF0_5973_41DF_E4469A77518F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.329999999999995vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:5.33vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.649999999999997vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.65vh;font-family:'Bebas Neue Bold';">Towers:</SPAN></SPAN></DIV></div>
+HTMLText_EA4506F7_FDA0_5CF1_41C2_BF883C7259BF.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.888888888888891vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff6600;font-size:3.89vmin;"><B>SATYA PRAKASH COLONIZERS PVT. LTD.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.17vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.33vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.333333333333334vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0066ff;font-size:3.33vmin;"><B>Nice Space Apartments, Bhopal is one of a kind. It is a 2 &amp; 3BHK residential project which is RERA approved and the first high-rise project in the area.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.33vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.33vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.333333333333334vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0066ff;font-size:3.33vmin;"><B>Be it in terms of the infrastructural quality, design, price, amenities or even the proximity to basic necessities. We believe in serving people with the best.</B></SPAN></SPAN></DIV></div>
+HTMLText_F50868DF_B5E5_36A7_41BF_47E18DD2B60C.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.329999999999995vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:5.33vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.650000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.65vh;font-family:'Bebas Neue Bold';">Nearest:</SPAN></SPAN></DIV></div>
+HTMLText_FD4D973B_B5FD_1BE8_41E2_F1626167DC64.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.329999999999995vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:5.33vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.650000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.65vh;font-family:'Bebas Neue Bold';">Nearest:</SPAN></SPAN></DIV></div>
+
+### Label
+Label_1378FF07_7C9E_46DD_41DA_1C9F313D4C0F.text = Looking for same tour for your business call 9014108066 
+Label_1378FF07_7C9E_46DD_41DA_1C9F313D4C0F_mobile.text = Looking for same tour for yourbusiness call 9014108066  
+Label_1D7772F0_7C81_DF33_41BD_95D3E6C49901.text = Looking for same tour for your business call 9014108066 
+Label_2E31742B_7C86_DAD6_41DA_0C39A4440D65.text = {{subtitle}}
+Label_2E31742B_7C86_DAD6_41DA_0C39A4440D65_mobile.text = {{subtitle}}
+Label_8FFD21AF_B5E7_16E7_41E4_5C74FD46D389.text = B Block Entrance
+Label_8FFD31AF_B5E7_16E7_41C2_7399904989BB.text = F Block Entrance
+Label_8FFD41AF_B5E7_16E7_41DA_DCB86973EC3A.text = G Block Entrance
+Label_8FFD51AF_B5E7_16E7_41E5_E9A983AD47D0.text = EWS Entrance
+Label_8FFD61AF_B5E7_16E7_41E3_F5241094A933.text = Club House Entrance
+Label_8FFD71AE_B5E7_16E9_41D9_20B8B3634822.text = H Block Entrance
+Label_BB0006EA_ACF0_5973_4188_F44757320519.text = Club House Entrance
+Label_BB0026EA_ACF0_5973_41C8_5037C37C9118.text = B Block Entrance
+Label_BB0036EA_ACF0_5973_41B9_459FFEDBD3F7.text = H Block Entrance
+Label_BB0056EA_ACF0_5973_41B3_98161DF5F39C.text = EWS Entrance
+Label_BB0076EA_ACF0_5973_41C8_614176980226.text = F Block Entrance
+Label_BB00B6EB_ACF0_5971_41CF_4E65BDD5E159.text = G Block Entrance
+Label_F50748E0_B5E5_3699_41CF_FAFBCACE0675.text = Airport
+Label_F50778E0_B5E5_3699_41C8_BD22A4E93BE4.text = Karond
+Label_F50788E0_B5E5_3699_41D4_C1691D2749E3.text = People Mall
+Label_F50798E0_B5E5_3699_41E2_EBE49CF85FCA.text = Flipkart/Walmart
+Label_F507A8E0_B5E5_3699_41D7_0E18162998EB.text = RGPV
+Label_F507D8E0_B5E5_3699_41E2_5CA99DEFB8E5.text = IT Park
+Label_FD4C873C_B5FD_1BE8_41E5_1E9B330B9758.text = IT Park
+Label_FD4C973C_B5FD_1BE8_41CF_1651385E10F2.text = Karond
+Label_FD4CB73C_B5FD_1BE8_41E0_A8F0B46D9ED7.text = Airport
+Label_FD4CC73B_B5FD_1BE8_41DB_284291C33BB8.text = Flipkart/Walmart
+Label_FD4CF73C_B5FD_1BE8_41D2_6BA9E1487228.text = RGPV
+Label_FD4D273B_B5FD_1BE8_41DE_DBCA934E03F6.text = People Mall
+
+## Media
+
+### Subtitle
+panorama_032B0A33_29C6_FB6B_41B3_51DCC8D1959E.subtitle = Drawing Room
+panorama_0E6A5171_29C6_29E7_41B0_691F1C02C19D.subtitle = kitchen
+panorama_0E6D419D_29C6_295E_41A7_28EC1F3CDDAE.subtitle = toilet ( comman )
+panorama_0E6D96CF_29C6_6B3A_41C4_85F73AEE62D5.subtitle = badroom 2
+panorama_0E6DABF0_29C6_38E5_41C1_22482F3C7D32.subtitle = balcony
+panorama_0E6DE134_29C6_696D_41B6_BF79DBF24902.subtitle = badroom 1
+panorama_0E6DEC03_29C6_7F2A_41B1_E46D18DB5815.subtitle = balcony
+panorama_381D7EF4_29CB_DA8C_41AE_7041B5469739.subtitle = Drawing Room
+panorama_39D38C92_29C4_5E85_41AB_D5AF416C60FF.subtitle = balcony
+panorama_39D861A9_29C4_6687_419B_643A8D9EC5F3.subtitle = kitchen
+panorama_39DE00EB_29C7_E69B_41B0_233B18234013.subtitle = toilet ( comman)
+panorama_39DE45BC_29C7_AEFC_41C4_6632F2C2F1DC.subtitle = badroon 1
+panorama_39DE77ED_29C7_AA9F_41B7_AC2165A6BCEA.subtitle = badroom 2
+
+### Title
+album_0A8B1274_29DF_EBEC_41BD_2BA1632A83CD.label = Nice Space Function
+album_0A8B1274_29DF_EBEC_41BD_2BA1632A83CD_0.label = WhatsApp Image 2021-11-16 at 10.57.32 AM (8)
+album_0A8B1274_29DF_EBEC_41BD_2BA1632A83CD_1.label = WhatsApp Image 2021-11-16 at 10.57.32 AM (7)
+album_0A8B1274_29DF_EBEC_41BD_2BA1632A83CD_2.label = WhatsApp Image 2021-11-16 at 10.57.32 AM (6)
+album_0A8B1274_29DF_EBEC_41BD_2BA1632A83CD_3.label = WhatsApp Image 2021-11-16 at 10.57.32 AM (5)
+album_0A8B1274_29DF_EBEC_41BD_2BA1632A83CD_4.label = WhatsApp Image 2021-11-16 at 10.57.32 AM (4)
+album_0A8B1274_29DF_EBEC_41BD_2BA1632A83CD_5.label = WhatsApp Image 2021-11-16 at 10.57.32 AM (3)
+album_0A8B1274_29DF_EBEC_41BD_2BA1632A83CD_6.label = WhatsApp Image 2021-11-16 at 10.57.32 AM (2)
+album_0A8B1274_29DF_EBEC_41BD_2BA1632A83CD_7.label = WhatsApp Image 2021-11-16 at 10.57.32 AM (1)
+album_0A8B1274_29DF_EBEC_41BD_2BA1632A83CD_8.label = WhatsApp Image 2021-11-16 at 10.57.32 AM
+panorama_032B0A33_29C6_FB6B_41B3_51DCC8D1959E.label = HBA_Hall
+panorama_0E6A5171_29C6_29E7_41B0_691F1C02C19D.label = HBA_Kitchen
+panorama_0E6D419D_29C6_295E_41A7_28EC1F3CDDAE.label = HBA_TOILET
+panorama_0E6D96CF_29C6_6B3A_41C4_85F73AEE62D5.label = HBA_BADROOM 2
+panorama_0E6DABF0_29C6_38E5_41C1_22482F3C7D32.label = HBA_BALCONY_KITCHEN
+panorama_0E6DE134_29C6_696D_41B6_BF79DBF24902.label = HBA_BADROOM 1
+panorama_0E6DE676_29C6_2BEA_41C0_8D1E1631A46C.label = HBA_Connect_BADROOM
+panorama_0E6DEC03_29C6_7F2A_41B1_E46D18DB5815.label = HBA_BALCONY_BADROOM1
+panorama_35B07B72_23FD_D117_41C1_C8CC8C79C269.label = H Block Entrance
+panorama_381D7EF4_29CB_DA8C_41AE_7041B5469739.label = HBB_Hall
+panorama_39D38C92_29C4_5E85_41AB_D5AF416C60FF.label = HBB_BALCONY_KITCHEN
+panorama_39D861A9_29C4_6687_419B_643A8D9EC5F3.label = HBB_Kitchen
+panorama_39DE00EB_29C7_E69B_41B0_233B18234013.label = HBB_TOILET_Comman
+panorama_39DE3ECC_29C7_BA9C_41C3_F28238D3F2F8.label = HBB_Connnect_BADROOMS
+panorama_39DE45BC_29C7_AEFC_41C4_6632F2C2F1DC.label = HBB_BADROOM 1
+panorama_39DE77ED_29C7_AA9F_41B7_AC2165A6BCEA.label = HBB_BADROOM 2
+panorama_4870A135_7E10_E5F9_41D9_2D6D427C63CE.label = H Block Sample
+photo_417654DA_7581_FB77_41C3_3219173CE9D3.label = WhatsApp Image 2021-11-16 at 10.57.32 AM (25)
+photo_417654DA_7581_FB77_41C3_3219173CE9D3.label = WhatsApp Image 2021-11-16 at 10.57.32 AM (25)
+photo_5A4170C2_758E_3B57_41A3_6CDA191E4F26.label = WhatsApp Image 2021-11-16 at 10.57.32 AM (13)
+photo_5A4170C2_758E_3B57_41A3_6CDA191E4F26.label = WhatsApp Image 2021-11-16 at 10.57.32 AM (13)
+photo_5A41934E_758E_3D6F_41C6_ECC0C1AE00EA.label = WhatsApp Image 2021-11-16 at 10.57.32 AM (12)
+photo_5A41934E_758E_3D6F_41C6_ECC0C1AE00EA.label = WhatsApp Image 2021-11-16 at 10.57.32 AM (12)
+photo_5A4465C1_758E_4555_41C7_EBC30A5D7E7D.label = WhatsApp Image 2021-11-16 at 10.57.32 AM (11)
+photo_5A4465C1_758E_4555_41C7_EBC30A5D7E7D.label = WhatsApp Image 2021-11-16 at 10.57.32 AM (11)
+photo_5A447A13_758E_4EF5_41D7_01B337B1B0E0.label = WhatsApp Image 2021-11-16 at 10.57.32 AM (9)
+photo_5A447A13_758E_4EF5_41D7_01B337B1B0E0.label = WhatsApp Image 2021-11-16 at 10.57.32 AM (9)
+photo_5A448824_758E_4AD3_41DA_9154476F7257.label = WhatsApp Image 2021-11-16 at 10.57.32 AM (10)
+photo_5A448824_758E_4AD3_41DA_9154476F7257.label = WhatsApp Image 2021-11-16 at 10.57.32 AM (10)
+photo_5A4C6786_7581_C5DF_41A1_6730EFAB6FF3.label = WhatsApp Image 2021-11-16 at 10.57.32 AM (24)
+photo_5A4C6786_7581_C5DF_41A1_6730EFAB6FF3.label = WhatsApp Image 2021-11-16 at 10.57.32 AM (24)
+photo_5A4E50F5_7581_DB32_41C0_89EEF89B8D48.label = WhatsApp Image 2021-11-16 at 10.57.32 AM (20)
+photo_5A4E50F5_7581_DB32_41C0_89EEF89B8D48.label = WhatsApp Image 2021-11-16 at 10.57.32 AM (20)
+photo_5A4E6579_7581_C535_41A1_5C5277C5C0CC.label = WhatsApp Image 2021-11-16 at 10.57.32 AM (18)
+photo_5A4E6579_7581_C535_41A1_5C5277C5C0CC.label = WhatsApp Image 2021-11-16 at 10.57.32 AM (18)
+photo_5A4E697C_7581_CD33_41D7_FB59551CE1A8.label = WhatsApp Image 2021-11-16 at 10.57.32 AM (16)
+photo_5A4E697C_7581_CD33_41D7_FB59551CE1A8.label = WhatsApp Image 2021-11-16 at 10.57.32 AM (16)
+photo_5A4E6A02_7581_CED6_41AA_EBC52E5F1357.label = WhatsApp Image 2021-11-16 at 10.57.32 AM (23)
+photo_5A4E6A02_7581_CED6_41AA_EBC52E5F1357.label = WhatsApp Image 2021-11-16 at 10.57.32 AM (23)
+photo_5A4E6EB1_7581_C735_41A1_0E108ABC59F6.label = WhatsApp Image 2021-11-16 at 10.57.32 AM (14)
+photo_5A4E6EB1_7581_C735_41A1_0E108ABC59F6.label = WhatsApp Image 2021-11-16 at 10.57.32 AM (14)
+photo_5A4E7C43_7581_CB55_41B4_C23139CE96BE.label = WhatsApp Image 2021-11-16 at 10.57.32 AM (22)
+photo_5A4E7C43_7581_CB55_41B4_C23139CE96BE.label = WhatsApp Image 2021-11-16 at 10.57.32 AM (22)
+photo_5A4E8BEB_7581_CD55_41D9_D06C25CF659F.label = WhatsApp Image 2021-11-16 at 10.57.32 AM (15)
+photo_5A4E8BEB_7581_CD55_41D9_D06C25CF659F.label = WhatsApp Image 2021-11-16 at 10.57.32 AM (15)
+photo_5A4E9307_7581_DEDD_41C9_BD32C7302782.label = WhatsApp Image 2021-11-16 at 10.57.32 AM (19)
+photo_5A4E9307_7581_DEDD_41C9_BD32C7302782.label = WhatsApp Image 2021-11-16 at 10.57.32 AM (19)
+photo_5A4E9781_7581_C5D2_41DD_0A189CC58902.label = WhatsApp Image 2021-11-16 at 10.57.32 AM (17)
+photo_5A4E9781_7581_C5D2_41DD_0A189CC58902.label = WhatsApp Image 2021-11-16 at 10.57.32 AM (17)
+photo_5A4E9E67_7581_C75D_41DA_11C2450F5C3C.label = WhatsApp Image 2021-11-16 at 10.57.32 AM (21)
+photo_5A4E9E67_7581_C75D_41DA_11C2450F5C3C.label = WhatsApp Image 2021-11-16 at 10.57.32 AM (21)
+
+## Action
+
+### URL
+LinkBehaviour_90B30EC4_B2ED_047A_41C3_4F03E44396B8.source = https://nicespace-ora.github.io/home/nearest/index.htm?media-index=1
+LinkBehaviour_90C53369_B2E5_1C0D_41BB_680D516BD5AD.source = https://nicespace-ora.github.io/home/nearest/index.htm?media-index=3
+LinkBehaviour_9114E4F0_B2AD_1E79_41CB_CB2C8260496B.source = https://nicespace-ora.github.io/home/nearest/index.htm?media-index=4
+LinkBehaviour_917CDD5A_B2A7_0FA8_41E6_5A208569CA9C.source = https://nicespace-ora.github.io/home/nearest/index.htm?media-index=3
+LinkBehaviour_91A215F5_B35B_3E78_41C6_65F4A137489F.source = https://nicespace-ora.github.io/home/nearest/index.htm?media-index=5
+LinkBehaviour_92F40324_B2EB_1C3A_41B8_DA8841BF0495.source = https://nicespace-ora.github.io/home/nearest/index.htm?media-index=4
+LinkBehaviour_9322976D_B2E7_040A_41AD_AC16EAA2A922.source = https://nicespace-ora.github.io/home/nearest/index.htm?media-index=6
+LinkBehaviour_9380C71F_B2AF_3BA8_41C0_0F5BA77BA177.source = https://nicespace-ora.github.io/home/nearest/index.htm?media-index=1
+LinkBehaviour_93B53C98_B2E7_040A_41DC_320638320AF2.source = https://nicespace-ora.github.io/home/nearest/index.htm?media-index=5
+LinkBehaviour_94757DC3_816E_CDE3_41D0_B1ACFE5F6A1A.source = https://nicespace-ora.github.io/home/index.htm?media-index=10
+LinkBehaviour_94A95273_8163_36A3_41C4_B68F5A642380.source = https://nicespace-ora.github.io/home/index.htm?media-index=11
+LinkBehaviour_94E76CF2_80A3_53BD_41A4_11BA7A246AE9.source = https://nicespace-ora.github.io/home/index.htm?media-index=6
+LinkBehaviour_95CE6126_B770_D8F0_41A4_4653F5836DEB.source = https://nicespace-ora.github.io/home/index.htm?media-index=5
+LinkBehaviour_95EFFA9F_80A7_D663_4192_657027D648A2.source = 	https://nicespace-ora.github.io/home/index.htm?media-index=5
+
+LinkBehaviour_961A4857_B2A5_15A7_41BD_44C18791E7CA.source = https://nicespace-ora.github.io/home/nearest/index.htm?media-index=7
+LinkBehaviour_96D31766_B2A5_1B99_4186_3BE81D4FFF24.source = https://nicespace-ora.github.io/home/nearest/index.htm?media-index=6
+LinkBehaviour_98AD9606_B77F_D8B3_41CC_A4E6331E0092.source = https://nicespace-ora.github.io/home/index.htm?media-index=9
+LinkBehaviour_9A08C6F5_817D_3FA6_41D7_A517716677E6.source = https://nicespace-ora.github.io/home/index.htm?media-index=10
+LinkBehaviour_9B463B1F_816D_5663_41D6_7ACCD096FE28.source = https://nicespace-ora.github.io/home/index.htm?media-index=9
+LinkBehaviour_9B93A571_8162_D2BF_41E0_2D0093552442.source = https://nicespace-ora.github.io/home/index.htm?media-index=8
+LinkBehaviour_9FDF58F7_B770_A950_41D5_B993529DB441.source = https://nicespace-ora.github.io/home/nearest/index.htm?media-index=1
+LinkBehaviour_A26A3C48_B2A5_040A_41E3_E2D94CFF0CF6.source = https://nicespace-ora.github.io/home/index.htm?media-index=10
+LinkBehaviour_A2B835E0_B2A7_043A_41DB_E44489B43F50.source = https://nicespace-ora.github.io/home/index.htm?media-index=9
+LinkBehaviour_A2F0CD3F_B2A7_0406_41C2_3BC8590641EF.source = https://nicespace-ora.github.io/home/index.htm?media-index=11
+LinkBehaviour_A592B1A6_AA10_272C_41D2_7733EF356ED4.source = https://nicespace-ora.github.io/home/nearest/index.htm?media-index=7
+LinkBehaviour_ADA57547_B2E5_0406_41E6_2CD808857BCA.source = https://nicespace-ora.github.io/home/nearest/index.htm?media-index=7
+LinkBehaviour_BC1015E8_B2AB_040A_41DF_BFF436D43C82.source = https://nicespace-ora.github.io/home/index.htm?media-index=5
+LinkBehaviour_BD61103F_B2AA_FC06_41DA_5E2632844BCE.source = https://nicespace-ora.github.io/home/index.htm?media-index=6
+LinkBehaviour_BDC5E60C_B2A5_040A_41DC_322149C02443.source = https://nicespace-ora.github.io/home/index.htm?media-index=8
+LinkBehaviour_F12C50BE_B5BB_76E8_41D8_176681C9194E.source = https://nicespace-ora.github.io/home/index.htm?media-index=10
+LinkBehaviour_FCCF4DF6_B5A5_0E78_41C0_6F016B17DB2D.source = https://nicespace-ora.github.io/home/index.htm?media-index=10
